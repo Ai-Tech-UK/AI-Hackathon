@@ -1,5 +1,0 @@
-1- Go to https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
-2- Click on File > Upload notebook.
-3- Select the notebook file (session file) to upload.
-4- Happy coding.
-5- Locate the files required from the NLP data files folder - ensure you pick the correct one
